@@ -92,6 +92,6 @@ Já atuei em empresas multinacionais com foco em tecnologia e mercado como: TOTV
 
   <h3><p align="center">Total de visitas no perfil:</p>
 <p align="center">
-    <img alingn="center" src="https://profile-counter.glitch.me/SamuelFLM/count.svg"/>
+    <img alingn="center" src="https://profile-counter.glitch.me/pablozagnoli/count.svg"/>
 </p>
       
