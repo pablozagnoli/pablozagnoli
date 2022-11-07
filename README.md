@@ -55,9 +55,6 @@ Já atuei em empresas multinacionais com foco em tecnologia e mercado como: TOTV
         </a>
     </h1>
     <div align="left">
-        <a href="pablozagnoli@hotmail.com">
-            <img alt="Gmail"src="">            
-        </a>
         <a href="https://www.linkedin.com/in/pablo-zagnoli-85714512b/" target="_blank">
             <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
         </a>
