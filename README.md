@@ -86,7 +86,7 @@ Já atuei em empresas multinacionais com foco em tecnologia e mercado como: TOTV
 
  <div align="center">
     
-   ![Snake animation](https://github.com/pablozagnoli/pablozagnoli/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/pablozagnoli/pablozagnoli/blob/main/workflows/github-contribution-grid-snake.svg)
 
   </div>
 
